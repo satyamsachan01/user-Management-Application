@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="font-bold text-xl sm:text-2xl tracking-wide">User Manager</h1>
+            <h1 className="font-bold text-xl sm:text-2xl tracking-wide">User Management Application</h1>
           </div>
 
           {/* Desktop Menu */}
